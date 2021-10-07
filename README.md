@@ -14,7 +14,7 @@
 ## My Stack
 
 <span>
-<img  alt="htmlImage" fill="blue" width="30px" src="images/html5-brands.svg"/> <span >HTML</span>
+<img  alt="htmlImage" fill="blue" width="30px"  src="images/html5-brands.svg"/> <span margin-left="5px" >HTML</span>
 </span>
 <span>
 <img  alt="cssImage" fill="blue" width="30px" src="images/css3-alt-brands.svg"/> <span>Css</span>
