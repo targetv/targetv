@@ -13,7 +13,7 @@
 
 ## My Stack
 
-[<img align="left" alt="htmlImage" fill="blue" width="30px" src="images/html5-brands.svg"/> <span>Html</span>]
+<img align="left" alt="htmlImage" fill="blue" width="30px" src="images/html5-brands.svg"/> <span>HTML</span>
 
 [<img align="left" alt="cssImage" fill="blue" width="30px" src="images/css3-alt-brands.svg"/>]
 <span>Css</span>
