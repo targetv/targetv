@@ -28,5 +28,6 @@
 <span>
 <img  alt="nodeImage" fill="blue" width="30px" src="images/node-js-brands.svg"/> <span>NodeJs</span>
 </span>
+
 [linkedin]: https://www.linkedin.com/in/sean-davison-82521b151/
 [email]: seandavison1998@hotmail.com
