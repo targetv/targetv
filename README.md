@@ -6,9 +6,11 @@
   <li>🔍 Looking for remote / location roles as a Junior Developer.</li>
 </ul>
 
-##Connect with me:
+## Connect with me:
+
+<br>
 [<img align="left" alt="socialImage" width="22px" src="images/linkedin-brands.svg"/>][linkedin]
-[<img align="left" alt="emailImage" width="22px" src="images/envelope-solid.svg"/>][email]
+[<img align="left" alt="emailImage" width="30px" src="images/envelope-solid.svg"/>][email]
 
 <hr>
 
