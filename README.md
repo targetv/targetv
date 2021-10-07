@@ -14,7 +14,7 @@
 ## My Stack
 
 <span>
-<img  alt="htmlImage" fill="blue" width="30px"  src="images/html5-brands.svg"/> <span margin-left="5px" >HTML</span>
+<img  alt="htmlImage" fill="blue" width="30px"  src="images/html5-brands.svg"/> <span>HTML</span>
 </span>
 <span>
 <img  alt="cssImage" fill="blue" width="30px" src="images/css3-alt-brands.svg"/> <span>Css</span>
@@ -28,6 +28,7 @@
 <span>
 <img  alt="nodeImage" fill="blue" width="35px" src="images/node-js-brands.svg"/> <span>NodeJs</span>
 </span>
+<span>Type Script</span>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=valeponchi&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true)](https://github.com/targetv/targetv)
 
