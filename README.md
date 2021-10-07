@@ -13,15 +13,15 @@
 
 ## My Stack
 
-<img align="left" alt="htmlImage" fill="blue" width="30px" src="images/html5-brands.svg"/> <span>HTML</span>
+<img align="left" alt="htmlImage" fill="blue" width="30px" src="images/html5-brands.svg"/> <span text-align="center">HTML</span>
 
-[<img align="left" alt="cssImage" fill="blue" width="30px" src="images/css3-alt-brands.svg"/>]
+<img align="left" alt="cssImage" fill="blue" width="30px" src="images/css3-alt-brands.svg"/>
 <span>Css</span>
-[<img align="left" alt="javascriptImage" fill="blue" width="30px" src="images/js-brands.svg"/>]
+<img align="left" alt="javascriptImage" fill="blue" width="30px" src="images/js-brands.svg"/>
 <span>Javascript</span>
-[<img align="left" alt="reactImage" fill="blue" width="30px" src="images/react-brands.svg"/>]
+<img align="left" alt="reactImage" fill="blue" width="30px" src="images/react-brands.svg"/>
 <span>React</span>
-[<img align="left" alt="nodeImage" fill="blue" width="30px" src="images/node-js-brands.svg"/>]
+<img align="left" alt="nodeImage" fill="blue" width="30px" src="images/node-js-brands.svg"/>
 <span>NodeJs</span>
 
 [linkedin]: https://www.linkedin.com/in/sean-davison-82521b151/
