@@ -30,6 +30,8 @@
 </span>
 <span>Type Script</span>
 
+<br>
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=valeponchi&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true)](https://github.com/targetv/targetv)
 
 [linkedin]: https://www.linkedin.com/in/sean-davison-82521b151/
