@@ -8,8 +8,6 @@
 
 ## Connect with me:
 
-<hr/>
-
 [<img align="left" alt="socialImage" fill="blue" width="22px" src="images/linkedin-brands.svg"/>][linkedin]
 [<img align="left" alt="emailImage" width="30px" src="images/envelope-solid.svg"/>][email]
 
