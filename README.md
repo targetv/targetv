@@ -20,13 +20,13 @@
 <img  alt="cssImage" fill="blue" width="30px" src="images/css3-alt-brands.svg"/> <span>Css</span>
 </span>
 <span>
-<img  alt="javascriptImage" fill="blue" width="30px" src="images/js-brands.svg"/> <span>Javascript</span>
+<img  alt="javascriptImage" fill="blue" width="35px" src="images/js-brands.svg"/> <span>Javascript</span>
 </span>
 <span>
-<img  alt="reactImage" fill="blue" width="30px" src="images/react-brands.svg"/> <span>React</span>
+<img  alt="reactImage" fill="blue" width="35px" src="images/react-brands.svg"/> <span>React</span>
 </span>
 <span>
-<img  alt="nodeImage" fill="blue" width="30px" src="images/node-js-brands.svg"/> <span>NodeJs</span>
+<img  alt="nodeImage" fill="blue" width="35px" src="images/node-js-brands.svg"/> <span>NodeJs</span>
 </span>
 
 [linkedin]: https://www.linkedin.com/in/sean-davison-82521b151/
