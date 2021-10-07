@@ -1,8 +1,8 @@
 ### Hi there im Sean 👋
 
-- 🎓 Experience: Full stack developer bootcamp with Boolean UK.
-- 💻 1000+ hours of coding
-- 🔍 Looking for remote / location roles as a Junior Developer.
+- 🎓 Experience: Full stack developer bootcamp with Boolean UK.</li>
+- 💻 1000+ hours of coding</li>
+- 🔍 Looking for remote / location roles as a Junior Developer.</li>
 
 ## Connect with me:
 
@@ -13,12 +13,22 @@
 
 ## My Stack
 
-- HTML
-- Css
-- Javascript
-- React
-- NodeJs
-- Type Script
+<span>
+<img  alt="htmlImage" fill="blue" width="30px"  src="images/html5-brands.svg"/> <span>HTML</span>
+</span>
+<span>
+<img  alt="cssImage" fill="blue" width="30px" src="images/css3-alt-brands.svg"/> <span>Css</span>
+</span>
+<span>
+<img  alt="javascriptImage" fill="blue" width="35px" src="images/js-brands.svg"/> <span>Javascript</span>
+</span>
+<span>
+<img  alt="reactImage" fill="blue" width="35px" src="images/react-brands.svg"/> <span>React</span>
+</span>
+<span>
+<img  alt="nodeImage" fill="blue" width="35px" src="images/node-js-brands.svg"/> <span>NodeJs</span>
+</span>
+<span>Type Script</span>
 
 ## Stats
 
